@@ -10,6 +10,7 @@ function submit(){
     else{
         console.log(email.value)
         console.log(password.value)
+        console.log('hello');
         email.value="";
         password.value="";
     }
